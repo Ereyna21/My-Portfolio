@@ -5,5 +5,11 @@ I used these websites to refrence codes and help me build my portfolio.
 https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet
 https://www.w3schools.com/default.asp
 
+
+I have also addded a scrrenshot on the addtional tab of my portfolio. 
+
+Deployed Application link
+file:///Users/ericreyna/Documents/Homework/Code-refactor-2/seo-Refactor-2/index.html
+
 Repository link
 https://github.com/Ereyna21/seo-Refactor-2
