@@ -6,10 +6,11 @@ https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet
 https://www.w3schools.com/default.asp
 
 
-I have also addded a scrrenshot on the addtional tab of my portfolio. 
+I have also addded a screenshot 
+![Erics Portfolio](Users/ericreyna/Desktop/Screenshot 2023-12-29 at 1.15.49 AM (2).png)
 
 Deployed Application link
-file:///Users/ericreyna/Documents/Homework/Code-refactor-2/seo-Refactor-2/index.html
+https:///Users/ericreyna/Documents/Homework/Code-refactor-2/seo-Refactor-2/index.html
 
 Repository link
 https://github.com/Ereyna21/seo-Refactor-2
