@@ -1,103 +1,103 @@
-
 body, h1, p {
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  font-family: Arial, sans-serif;
-  font-size: 16px;
-  border: black;
-  height: 100vh;
-  background-color:darkgrey;
-  text-align: center;
+    margin: 0;
+    padding: 0;
+  }
   
-}
-header h1 {
-text-align: center;
-}
-
-.container {
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    border: black;
+    height: 100vh;
+    background-color:darkgrey;
+    text-align: center;
+    
+  }
+  header h1 {
   text-align: center;
-}
-
-header {
-  background-color: #333;
-  color: #fff;
-  padding: 20px 470px;
-  align-items: center;
+  }
   
-}
-
-.box {
-  border: 1px solid #000000;
-  padding: 10px;
-  background-color: #f0f0f0;
-  border-radius: 5px;
-}
-p {
-  padding: 0 0 20px;
-  text-align: center;
-}
-
-img {
-border-radius: 50px;
-width: 250px;
-height: 300px;
-object-fit: cover;
-padding: 30px;
-
-}
-
-article {
-  border: 2px solid rgb(0, 0, 0);
-  margin-bottom: 300px;
-}
-
-html {
-  scroll-behavior: none;
-}
-
-h2 {
-  text-align: center;
-}
-
-
-nav {
-  background-color: #333;
-  padding: 10px;
-  text-align: center;
-}
-
-nav ul {
-  list-style-type:none;
-  margin: 0 ;
-  padding: 0 ;
-  align-items: center;
-}
-
-nav ul li {
-  display: inline;
-  margin-right: 10px;
-}
-
-nav ul li a {
-  color: #ffffff;
-  text-decoration:underline, 5px white
+  .container {
+    text-align: center;
+  }
   
-}
-.main-container {
-display: flex;
-flex-direction: column
-min-height 100vh;
-}
-
-
-main {
-  padding: 20px 150px 0 150px;
-}
-
-footer {
-  border: #000000;
- 
-}
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 470px;
+    align-items: center;
+    
+  }
+  
+  .box {
+    border: 1px solid #000000;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+  }
+  p {
+    padding: 0 0 20px;
+    text-align: center;
+  }
+  
+  img {
+  border-radius: 50px;
+  width: 250px;
+  height: 300px;
+  object-fit: cover;
+  padding: 30px;
+  
+  }
+  
+  article {
+    border: 2px solid rgb(0, 0, 0);
+    margin-bottom: 300px;
+  }
+  
+  html {
+    scroll-behavior: none;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  
+  nav {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type:none;
+    margin: 0 ;
+    padding: 0 ;
+    align-items: center;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #ffffff;
+    text-decoration:underline, 5px white
+    
+  }
+  .main-container {
+  display: flex;
+  flex-direction: column
+  min-height 100vh;
+  }
+  
+  
+  main {
+    padding: 20px 150px 0 150px;
+  }
+  
+  footer {
+    border: #000000;
+   
+  }
+  
